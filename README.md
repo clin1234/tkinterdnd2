@@ -1,14 +1,13 @@
-## fork
+## fork x2
 
-this is fork of [tkinterdnd2](https://github.com/pmgagne/tkinterdnd2) which is a python wrapper for [tkdnd](https://github.com/petasis/tkdnd)
+A fork of a fork of [tkinterdnd2](https://github.com/pmgagne/tkinterdnd2) which is a python wrapper for [tkdnd](https://github.com/petasis/tkdnd)
 .
 
-this repo forked and edited to be published to pypi so one could simply install this package
-with  `pip install tkinterdnd2`.
+TODO: take ownership of `tkinterdnd2` on PyPI
 
 ## install
 
-`python -m pip install tkinterdnd2`
+For now, `python -m pip install git+https://github.com/clin1234/tkinterdnd2`
 
 ## usage
 
